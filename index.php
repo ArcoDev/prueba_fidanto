@@ -24,7 +24,7 @@
                     <div class="col-12 col-md-6  text-center">
                         <h2 class=" text-success">Empresa</h2>
                         <img class="rounded-circle my-3" src="assets/img/logo.jfif" alt="logo">
-                        <p>Trascendencia Humana, somos una empresa de reclutamiento y selección, para distintas empresas, uno de mis clientes principales se dedican a Tecnología y Software</p>
+                        <p>Trascendencia Humana, empresa de reclutamiento y selección</p>
                     </div>
                     <div class="col-12 col-md-6  px-2">
                         <h2 class=" text-success text-center">Información de la vacante</h2>
